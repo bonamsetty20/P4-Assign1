@@ -1,0 +1,12 @@
+E:\Phase4\Day1\LoginLib\LoginLib\bin\Debug\net6.0\LoginLib.deps.json
+E:\Phase4\Day1\LoginLib\LoginLib\bin\Debug\net6.0\LoginLib.dll
+E:\Phase4\Day1\LoginLib\LoginLib\bin\Debug\net6.0\LoginLib.pdb
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.csproj.AssemblyReference.cache
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.AssemblyInfoInputs.cache
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.AssemblyInfo.cs
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.csproj.CoreCompileInputs.cache
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.dll
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\refint\LoginLib.dll
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\LoginLib.pdb
+E:\Phase4\Day1\LoginLib\LoginLib\obj\Debug\net6.0\ref\LoginLib.dll
